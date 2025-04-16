@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "DotNETTheme\\DotNETTheme.pkgdef",
               "ToolTip": "E:\\Extentions\\DotNET-Theme\\DotNETTheme\\DotNETTheme\\DotNETTheme.pkgdef",
               "RelativeToolTip": "DotNETTheme\\DotNETTheme.pkgdef",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
               "WhenOpened": "2025-04-16T08:02:59.92Z",
               "EditorCaption": ""

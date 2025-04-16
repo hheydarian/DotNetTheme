@@ -75,6 +75,9 @@
     <Content Include="Images\icon_folder_images_32.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+	<Content Include="DotNETTheme.pkgdef">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />

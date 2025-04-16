@@ -1,14 +1,8 @@
-﻿[$RootKey$\InstalledProducts\DotNETTheme]
-@="DotNET Theme Extension"
-"ProductName"="DotNETTheme"
-"ProductDetails"="Theme for .NET Developers"
-"LogoID"=1
-"UseVsThemeColorization"=1
+﻿[$RootKey$\FileExtension\.jpg]
+"DefaultIcon"="$PackageFolder$\\Images\\icon_folder_images_16.png"
 
-[$RootKey$\Themes]
-"{A0D5B0B2-3F07-4E9E-8F72-C9E4F27A8C42}"="DotNETTheme"
+[$RootKey$\FileExtension\.png]
+"DefaultIcon"="$PackageFolder$\\Images\\icon_folder_images_16.png"
 
-[$RootKey$\Themes\{A0D5B0B2-3F07-4E9E-8F72-C9E4F27A8C42}]
-"Name"="DotNETTheme"
-"DisplayName"="DotNET Theme"
+[$RootKey$\FileNodeExtensions\Images]
 "DefaultIcon"="$PackageFolder$\\Images\\icon_folder_images_16.png"
