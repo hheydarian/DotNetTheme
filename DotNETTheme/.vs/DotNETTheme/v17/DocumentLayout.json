@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Extentions\\DotNET-Theme\\DotNETTheme\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E309EBD-CEB4-4E58-8DDC-777BCEC5A6A6}|DotNETTheme\\DotNETTheme.csproj|e:\\extentions\\dotnet-theme\\dotnettheme\\dotnettheme\\dotnettheme.pkgdef||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E309EBD-CEB4-4E58-8DDC-777BCEC5A6A6}|DotNETTheme\\DotNETTheme.csproj|solutionrelative:dotnettheme\\dotnettheme.pkgdef||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DotNETTheme.pkgdef",
+              "DocumentMoniker": "E:\\Extentions\\DotNET-Theme\\DotNETTheme\\DotNETTheme\\DotNETTheme.pkgdef",
+              "RelativeDocumentMoniker": "DotNETTheme\\DotNETTheme.pkgdef",
+              "ToolTip": "E:\\Extentions\\DotNET-Theme\\DotNETTheme\\DotNETTheme\\DotNETTheme.pkgdef",
+              "RelativeToolTip": "DotNETTheme\\DotNETTheme.pkgdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-04-16T08:02:59.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,3 +1,7 @@
+E:\Extentions\DotNET-Theme\DotNETTheme\DotNETTheme\bin\Debug\DotNETTheme.pkgdef
+E:\Extentions\DotNET-Theme\DotNETTheme\DotNETTheme\bin\Debug\Images\icon_folder_images_16.png
+E:\Extentions\DotNET-Theme\DotNETTheme\DotNETTheme\bin\Debug\Images\icon_folder_images_24.png
+E:\Extentions\DotNET-Theme\DotNETTheme\DotNETTheme\bin\Debug\Images\icon_folder_images_32.png
 E:\Extentions\DotNET-Theme\DotNETTheme\DotNETTheme\bin\Debug\DotNETTheme.vsix
 E:\Extentions\DotNET-Theme\DotNETTheme\DotNETTheme\bin\Debug\extension.vsixmanifest
 E:\Extentions\DotNET-Theme\DotNETTheme\DotNETTheme\obj\Debug\DotNETTheme.csproj.AssemblyReference.cache
