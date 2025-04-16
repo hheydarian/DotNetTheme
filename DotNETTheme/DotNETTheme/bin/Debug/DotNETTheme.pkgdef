@@ -1,8 +1,0 @@
-﻿[$RootKey$\FileExtension\.jpg]
-"DefaultIcon"="$PackageFolder$\\Images\\icon_folder_images_16.png"
-
-[$RootKey$\FileExtension\.png]
-"DefaultIcon"="$PackageFolder$\\Images\\icon_folder_images_16.png"
-
-[$RootKey$\FileNodeExtensions\Images]
-"DefaultIcon"="$PackageFolder$\\Images\\icon_folder_images_16.png"
