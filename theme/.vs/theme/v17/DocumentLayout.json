@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Extentions\\dotnettheme\\theme\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6CE43F-E661-4CC9-BBB6-27E8989C6175}|dotnettheme\\dotnettheme.csproj|e:\\extentions\\dotnettheme\\theme\\dotnettheme\\.ignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1C6CE43F-E661-4CC9-BBB6-27E8989C6175}|dotnettheme\\dotnettheme.csproj|solutionrelative:dotnettheme\\.ignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".ignore",
+              "DocumentMoniker": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\.ignore",
+              "RelativeDocumentMoniker": "dotnettheme\\.ignore",
+              "ToolTip": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\.ignore",
+              "RelativeToolTip": "dotnettheme\\.ignore",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T20:11:53.809Z",
+              "EditorCaption": ""
             }
           ]
         }

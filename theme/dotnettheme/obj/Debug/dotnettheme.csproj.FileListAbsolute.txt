@@ -1,3 +1,6 @@
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Arc Reversed.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blue dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\icone\logo.png
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\dotnettheme.vsix
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\extension.vsixmanifest
 E:\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.csproj.AssemblyReference.cache
@@ -9,5 +12,3 @@ E:\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.pdb
 E:\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\extension.vsixmanifest
 E:\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\files.json
 E:\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\createTemplateManifests.cache
-E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\icone\logo.png
-E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blue dt.pkgdef

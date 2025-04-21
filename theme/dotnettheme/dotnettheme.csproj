@@ -47,6 +47,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".ignore" />
+    <None Include="Colors\Arc Reversed.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Arc Reversed.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Blue dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Blue dt.pkgdef</LastGenOutput>
@@ -65,6 +70,13 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Colors\Arc Reversed.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Arc Reversed.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Colors\Blue dt.pkgdef">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
