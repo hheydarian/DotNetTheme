@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Extentions\\dotnettheme\\theme\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6CE43F-E661-4CC9-BBB6-27E8989C6175}|dotnettheme\\dotnettheme.csproj|e:\\extentions\\dotnettheme\\theme\\dotnettheme\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}",
+      "RelativeMoniker": "D:0:0:{1C6CE43F-E661-4CC9-BBB6-27E8989C6175}|dotnettheme\\dotnettheme.csproj|solutionrelative:dotnettheme\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.extension.vsixmanifest [Design]",
+              "DocumentMoniker": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\source.extension.vsixmanifest",
+              "RelativeDocumentMoniker": "dotnettheme\\source.extension.vsixmanifest",
+              "ToolTip": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\source.extension.vsixmanifest [Design]",
+              "RelativeToolTip": "dotnettheme\\source.extension.vsixmanifest [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-21T20:39:40.068Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

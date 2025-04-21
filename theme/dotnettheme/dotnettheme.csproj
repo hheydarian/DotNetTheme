@@ -59,6 +59,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Dark High Contrast dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Milkshake Blueberry dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Milkshake Blueberry dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -91,6 +95,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Dark High Contrast dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Milkshake Blueberry dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Milkshake Blueberry dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
