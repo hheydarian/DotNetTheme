@@ -21,6 +21,7 @@
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Arc Reversed dt.jsonc\Arc Reversed dt.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Dark High Contrast dt.jsonc\Dark High Contrast dt.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Milkshake Blueberry dt.jsonc\Milkshake Blueberry dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Dark Modern dt.jsonc\Dark Modern dt.pkgdef" />
     </Assets>
     <Prerequisites>
         <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />

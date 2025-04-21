@@ -59,6 +59,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Dark High Contrast dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Dark Modern dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Dark Modern dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Milkshake Blueberry dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Milkshake Blueberry dt.pkgdef</LastGenOutput>
@@ -95,6 +99,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Dark High Contrast dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Dark Modern dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dark Modern dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>

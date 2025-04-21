@@ -14,3 +14,4 @@ E:\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\createTemplateManifests.ca
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Arc Reversed dt.pkgdef
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dark High Contrast dt.pkgdef
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Milkshake Blueberry dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dark Modern dt.pkgdef
