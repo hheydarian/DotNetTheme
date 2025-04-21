@@ -47,14 +47,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include=".ignore" />
-    <None Include="Colors\Arc Reversed.jsonc">
+    <None Include="Colors\Arc Reversed dt.jsonc">
       <Generator>ThemeConverter</Generator>
-      <LastGenOutput>Arc Reversed.pkgdef</LastGenOutput>
+      <LastGenOutput>Arc Reversed dt.pkgdef</LastGenOutput>
     </None>
     <None Include="Colors\Blue dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Blue dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Dark High Contrast dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Dark High Contrast dt.pkgdef</LastGenOutput>
     </None>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
@@ -70,10 +73,10 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Colors\Arc Reversed.pkgdef">
+    <Content Include="Colors\Arc Reversed dt.pkgdef">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Arc Reversed.jsonc</DependentUpon>
+      <DependentUpon>Arc Reversed dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -81,6 +84,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Blue dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Dark High Contrast dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dark High Contrast dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>

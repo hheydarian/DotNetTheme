@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Extentions\\dotnettheme\\theme\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C6CE43F-E661-4CC9-BBB6-27E8989C6175}|dotnettheme\\dotnettheme.csproj|e:\\extentions\\dotnettheme\\theme\\dotnettheme\\.ignore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1C6CE43F-E661-4CC9-BBB6-27E8989C6175}|dotnettheme\\dotnettheme.csproj|solutionrelative:dotnettheme\\.ignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1C6CE43F-E661-4CC9-BBB6-27E8989C6175}|dotnettheme\\dotnettheme.csproj|e:\\extentions\\dotnettheme\\theme\\dotnettheme\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}",
+      "RelativeMoniker": "D:0:0:{1C6CE43F-E661-4CC9-BBB6-27E8989C6175}|dotnettheme\\dotnettheme.csproj|solutionrelative:dotnettheme\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".ignore",
-              "DocumentMoniker": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\.ignore",
-              "RelativeDocumentMoniker": "dotnettheme\\.ignore",
-              "ToolTip": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\.ignore",
-              "RelativeToolTip": "dotnettheme\\.ignore",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwCkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-21T20:11:53.809Z",
-              "EditorCaption": ""
+              "Title": "source.extension.vsixmanifest [Design]",
+              "DocumentMoniker": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\source.extension.vsixmanifest",
+              "RelativeDocumentMoniker": "dotnettheme\\source.extension.vsixmanifest",
+              "ToolTip": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\source.extension.vsixmanifest [Design]",
+              "RelativeToolTip": "dotnettheme\\source.extension.vsixmanifest [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-21T20:29:22.407Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
