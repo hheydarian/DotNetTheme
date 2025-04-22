@@ -63,6 +63,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Dark Modern dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Dracula At Night dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Dracula At Night dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Milkshake Blueberry dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Milkshake Blueberry dt.pkgdef</LastGenOutput>
@@ -110,6 +114,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Dark Modern dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Dracula At Night dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dracula At Night dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>

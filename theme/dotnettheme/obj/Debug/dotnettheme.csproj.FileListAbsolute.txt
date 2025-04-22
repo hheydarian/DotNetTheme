@@ -16,3 +16,4 @@ E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dark High Contrast 
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Milkshake Blueberry dt.pkgdef
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dark Modern dt.pkgdef
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Nord Light dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dracula At Night dt.pkgdef
