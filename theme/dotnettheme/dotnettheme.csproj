@@ -67,6 +67,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Milkshake Blueberry dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Nord Light dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Nord Light dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -113,6 +117,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Milkshake Blueberry dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Nord Light dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Nord Light dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
