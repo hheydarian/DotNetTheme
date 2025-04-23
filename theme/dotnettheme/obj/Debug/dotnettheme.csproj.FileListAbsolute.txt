@@ -17,3 +17,5 @@ E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dark Modern dt.pkgd
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Nord Light dt.pkgdef
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dracula At Night dt.pkgdef
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Milkshake Mint dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Aura Dark dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Eva Dark Bold dt.pkgdef

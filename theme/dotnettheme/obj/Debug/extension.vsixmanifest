@@ -23,6 +23,8 @@
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Nord Light dt.jsonc\Nord Light dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Dracula At Night dt.jsonc\Dracula At Night dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Milkshake Mint dt.jsonc\Milkshake Mint dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Eva Dark Bold dt.jsonc\Eva Dark Bold dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Aura Dark dt.jsonc\Aura Dark dt.pkgdef" />
   </Assets>
   <Prerequisites>
     <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />

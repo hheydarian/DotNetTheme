@@ -51,6 +51,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Arc Reversed dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Aura Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Aura Dark dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Blue dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Blue dt.pkgdef</LastGenOutput>
@@ -97,6 +101,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Arc Reversed dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Aura Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Aura Dark dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
