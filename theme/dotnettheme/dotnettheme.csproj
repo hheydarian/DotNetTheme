@@ -67,6 +67,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Milkshake Blueberry dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Milkshake Mint dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Milkshake Mint dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Nord Light dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Nord Light dt.pkgdef</LastGenOutput>
@@ -117,6 +121,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Milkshake Blueberry dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Milkshake Mint dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Milkshake Mint dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
