@@ -18,7 +18,6 @@
   <Assets>
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Blue dt.jsonc\Blue dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Arc Reversed dt.jsonc\Arc Reversed dt.pkgdef" />
-    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Dark High Contrast dt.jsonc\Dark High Contrast dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Milkshake Blueberry dt.jsonc\Milkshake Blueberry dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Dark Modern dt.jsonc\Dark Modern dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Nord Light dt.jsonc\Nord Light dt.pkgdef" />
