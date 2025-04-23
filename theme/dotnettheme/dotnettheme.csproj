@@ -71,6 +71,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Eva Dark Bold dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Mayukai Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Mayukai Dark dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Milkshake Blueberry dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Milkshake Blueberry dt.pkgdef</LastGenOutput>
@@ -136,6 +140,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Eva Dark Bold dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Mayukai Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mayukai Dark dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
