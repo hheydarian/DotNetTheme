@@ -5,7 +5,7 @@
     <Description xml:space="preserve">A sleek and modern theme for Visual Studio, designed to enhance productivity.</Description>
     <MoreInfo>https://github.com/hheydarian/dotnettheme</MoreInfo>
     <Icon>icone\logo.png</Icon>
-    <Tags>theme, dotnet, visual studio, dark theme, dotnettheme, theme</Tags>
+    <Tags>theme, dotnet, visual studio, dark theme, dotnettheme, theme, color theme</Tags>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
