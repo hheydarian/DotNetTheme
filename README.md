@@ -1,1 +1,1 @@
-## Link Download: [_DotNetTheme_](https://marketplace.visualstudio.com/items?itemName=HamedHeydarian.DotNetTheme) 
+## Link Download: [DotNetTheme](https://marketplace.visualstudio.com/items?itemName=HamedHeydarian.DotNetTheme) 
