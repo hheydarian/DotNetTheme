@@ -11,7 +11,7 @@ This extension changes the overall look and feel of Visual Studio, making your c
 - ✅Easy to switch between this theme and others inside Visual Studio.
 
 ## 📦 Installation
-You can install **DotNET Theme** directly from the Visual Studio Marketplace.
+You can install **DotNET Theme** directly from the Visual Studio [Marketplace](https://marketplace.visualstudio.com/items?itemName=HamedHeydarian.DotNetTheme).
 
 ## 🌈Themes
 - **Milkshake Blueberry dt**
