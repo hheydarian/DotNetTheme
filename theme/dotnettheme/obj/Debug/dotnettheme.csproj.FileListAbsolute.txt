@@ -20,3 +20,9 @@ E:\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\extension.vsixmanifest
 E:\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\files.json
 E:\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\createTemplateManifests.cache
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\icone\logo.png
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Aura Soft Dark dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blueberry Banana dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blueberry dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Coffee Reversed dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\OLED dt.pkgdef
+E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Vivid Purple dt.pkgdef

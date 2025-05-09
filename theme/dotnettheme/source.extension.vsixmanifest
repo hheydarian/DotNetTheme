@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" ?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="dotnettheme.f32db439-8753-46ea-b088-4a53eb6fe6cc" Version="1.0.0" Language="en-US" Publisher="Hamed Heydarian" />
+        <Identity Id="dotnettheme.f32db439-8753-46ea-b088-4a53eb6fe6cc" Version="2.0.0" Language="en-US" Publisher="Hamed Heydarian" />
         <DisplayName>dotnettheme</DisplayName>
         <Description xml:space="preserve">A sleek and modern theme for Visual Studio, designed to enhance productivity.</Description>
         <MoreInfo>https://github.com/hheydarian/dotnettheme</MoreInfo>
@@ -27,6 +27,12 @@
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Eva Dark Bold dt.jsonc\Eva Dark Bold dt.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Aura Dark dt.jsonc\Aura Dark dt.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Mayukai Dark dt.jsonc\Mayukai Dark dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Blueberry dt.jsonc\Blueberry dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Blueberry Banana dt.jsonc\Blueberry Banana dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Vivid Purple dt.jsonc\Vivid Purple dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\OLED dt.jsonc\OLED dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Coffee Reversed dt.jsonc\Coffee Reversed dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Aura Soft Dark dt.jsonc\Aura Soft Dark dt.pkgdef" />
     </Assets>
     <Prerequisites>
         <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />

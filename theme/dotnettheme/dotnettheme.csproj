@@ -55,9 +55,25 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Aura Dark dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Aura Soft Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Aura Soft Dark dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Blue dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Blue dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Blueberry Banana dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Blueberry Banana dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Blueberry dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Blueberry dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Coffee Reversed dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Coffee Reversed dt.pkgdef</LastGenOutput>
     </None>
     <None Include="Colors\Dark Modern dt.jsonc">
       <Generator>ThemeConverter</Generator>
@@ -87,6 +103,14 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Nord Light dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\OLED dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>OLED dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Vivid Purple dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Vivid Purple dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -115,10 +139,38 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Colors\Aura Soft Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Aura Soft Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Colors\Blue dt.pkgdef">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Blue dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Blueberry Banana dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Blueberry Banana dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Blueberry dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Blueberry dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Coffee Reversed dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Coffee Reversed dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -168,6 +220,20 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Nord Light dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\OLED dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OLED dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Vivid Purple dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Vivid Purple dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
