@@ -16,67 +16,68 @@ You can install **DotNET Theme** directly from the Visual Studio Marketplace.
 ## 🌈Themes
 - **Milkshake Blueberry dt**
 
-![Milkshake_Blueberry_dt.png](Milkshake_Blueberry_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Milkshake%20Blueberry%20dt.png)
 
 - **Milkshake Mint dt**
 
-![Milkshake_Mint_dt.png](Milkshake_Mint_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Milkshake%20Mint%20dt.png)
 
 - **Nord Light dt**
 
-![Nord_Light_dt.png](Nord_Light_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Nord%20Light%20dt.png)
 
-- ** Mayukai Dark dt**
+- **Mayukai Dark dt**
 
-![Mayukai_Dark_dt.png](Mayukai_Dark_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Mayukai%20Dark%20dt.png)
 
 - **Eva Dark Bold dt**
 
-![Eva_Dark_Bold_dt.png](Eva_Dark_Bold_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Eva%20Dark%20Bold%20dt.png)
 
 - **Dracula At Night dt**
 
-![Dracula_At_Night_dt.png](Dracula_At_Night_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Dracula%20At%20Night%20dt.png)
 
 - **Dark Modern dt**
 
-![Dark_Modern_dt.png](Dark_Modern_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Dark%20Modern%20dt.png)
 
--** Blue dt**
+- **Blue dt**
 
-![Blue_dt.png](Blue_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Blue%20dt.png)
 
 - **Aura Dark dt**
 
-![Aura_Dark_dt.png](Aura_Dark_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Aura%20Dark%20dt.png)
 
 - **Arc Reversed dt**
 
-![Arc_Reversed_dt.png](Arc_Reversed_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Arc%20Reversed%20dt.png)
 
 - **Blueberry dt**
 
-![Blueberry_dt.png](Blueberry_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Blueberry%20dt.png)
 
 - **Blueberry Banana dt**
 
-![Blueberry_Banana_dt.png](Blueberry_Banana_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Blueberry%20Banana%20dt.png)
 
 - **Vivid Purple dt**
 
-![Vivid_Purple_dt.png](Vivid_Purple_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Vivid%20Purple%20dt.png)
 
 - **OLED dt**
 
-![OLED_dt.png](OLED_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/OLED%20dt.png)
 
 - **Coffee Reversed dt**
 
-![Coffee_Reversed_dt.png](Coffee_Reversed_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Coffee%20Reversed%20dt.png)
 
 - **Aura Soft Dark dt**
 
-![Aura_Soft_Dark_dt.png](Aura_Soft_Dark_dt.png)
+![Milkshake_Blueberry_dt.png](theme/dotnettheme/Preview/Aura%20Soft%20Dark%20dt.png)
+
 ### 🔴Important
 
 **All themes are marked with dt at the end.**
