@@ -1,3 +1,10 @@
+![License](https://img.shields.io/github/license/hheydarian/DotNetTheme)
+![Marketplace](https://img.shields.io/badge/marketplace-DotNetTheme-blueviolet?logo=visualstudiocode)
+![Version](https://img.shields.io/visual-studio-marketplace/v/HamedHeydarian.DotNetTheme?label=version)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/HamedHeydarian.DotNetTheme?label=downloads)
+![Repo Size](https://img.shields.io/github/repo-size/hheydarian/DotNetTheme)
+
+
 # DotNETTheme
 
 **DotNET Theme** is a Visual Studio extension that brings a fresh and modern color scheme inspired by the .NET ecosystem.  
