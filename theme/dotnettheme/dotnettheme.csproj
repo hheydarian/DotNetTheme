@@ -107,6 +107,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>OLED dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Panda dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Panda dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Vivid Purple dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Vivid Purple dt.pkgdef</LastGenOutput>
@@ -227,6 +231,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>OLED dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Panda dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Panda dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>

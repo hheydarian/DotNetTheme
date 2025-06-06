@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj": {}
+    "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj": {}
   },
   "projects": {
-    "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj": {
+    "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj",
+        "projectUniqueName": "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj",
         "projectName": "dotnettheme",
-        "projectPath": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj",
+        "projectPath": "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Extentions\\dotnettheme\\theme\\dotnettheme\\obj\\",
+        "outputPath": "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "UsingMicrosoftNETSdk": false,
@@ -64,6 +64,20 @@
               ]
             }
           }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
         }
       }
     }

@@ -32,6 +32,7 @@
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\OLED dt.jsonc\OLED dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Coffee Reversed dt.jsonc\Coffee Reversed dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Aura Soft Dark dt.jsonc\Aura Soft Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Panda dt.jsonc\Panda dt.pkgdef" />
   </Assets>
   <Prerequisites>
     <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
