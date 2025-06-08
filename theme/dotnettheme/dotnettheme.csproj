@@ -71,21 +71,49 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Blueberry dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Bluloco Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Bluloco Dark dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Chromdy dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Chromdy dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Coffee Reversed dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Coffee Reversed dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Copilot dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Copilot dt.pkgdef</LastGenOutput>
     </None>
     <None Include="Colors\Dark Modern dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Dark Modern dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Deepdark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Deepdark dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Dracula At Night dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Dracula At Night dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Electron dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Electron dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Eva Dark Bold dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Eva Dark Bold dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\MacOS Modern Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>MacOS Modern Dark dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Markdown Editor Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Markdown Editor Dark dt.pkgdef</LastGenOutput>
     </None>
     <None Include="Colors\Mayukai Dark dt.jsonc">
       <Generator>ThemeConverter</Generator>
@@ -99,6 +127,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Milkshake Mint dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Min Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Min Dark dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Nord Light dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Nord Light dt.pkgdef</LastGenOutput>
@@ -111,10 +143,18 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Panda dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Tinacious dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Tinacious dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Vivid Purple dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Vivid Purple dt.pkgdef</LastGenOutput>
     </None>
+    <Content Include="LICENSE">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -171,10 +211,31 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Colors\Bluloco Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Bluloco Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Chromdy dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Chromdy dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Colors\Coffee Reversed dt.pkgdef">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Coffee Reversed dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Copilot dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Copilot dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -185,6 +246,13 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Colors\Deepdark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deepdark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Colors\Dracula At Night dt.pkgdef">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -192,10 +260,31 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Colors\Electron dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Electron dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Colors\Eva Dark Bold dt.pkgdef">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Eva Dark Bold dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\MacOS Modern Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MacOS Modern Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Markdown Editor Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Markdown Editor Dark dt.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -220,6 +309,13 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Colors\Min Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Min Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Colors\Nord Light dt.pkgdef">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -241,6 +337,13 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Colors\Tinacious dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tinacious dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Colors\Vivid Purple dt.pkgdef">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -253,6 +356,7 @@
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

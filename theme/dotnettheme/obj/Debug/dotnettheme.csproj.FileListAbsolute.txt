@@ -26,3 +26,42 @@ E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blueberry dt.pkgdef
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Coffee Reversed dt.pkgdef
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\OLED dt.pkgdef
 E:\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Vivid Purple dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Arc Reversed dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Aura Dark dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Aura Soft Dark dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blue dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blueberry Banana dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blueberry dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Coffee Reversed dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dark Modern dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dracula At Night dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Eva Dark Bold dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Mayukai Dark dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Milkshake Blueberry dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Milkshake Mint dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Nord Light dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\OLED dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Panda dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Vivid Purple dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\icone\logo.png
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\dotnettheme.vsix
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\extension.vsixmanifest
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.csproj.AssemblyReference.cache
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\_EmptyResource.resources
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.csproj.GenerateResource.cache
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.csproj.CoreCompileInputs.cache
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.dll
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.pdb
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\extension.vsixmanifest
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\files.json
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\createTemplateManifests.cache
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Chromdy dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Copilot dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Deepdark dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Electron dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\MacOS Modern Dark dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Markdown Editor Dark dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Min Dark dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Tinacious dt.pkgdef
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\LICENSE
+E:\C#\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Bluloco Dark dt.pkgdef

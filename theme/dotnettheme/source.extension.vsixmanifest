@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" ?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="dotnettheme.f32db439-8753-46ea-b088-4a53eb6fe6cc" Version="2.0.0" Language="en-US" Publisher="Hamed Heydarian" />
+        <Identity Id="dotnettheme.f32db439-8753-46ea-b088-4a53eb6fe6cc" Version="3.0.0" Language="en-US" Publisher="Hamed Heydarian" />
         <DisplayName>dotnettheme</DisplayName>
-        <Description xml:space="preserve">A sleek and modern theme for Visual Studio, designed to enhance productivity.</Description>
+        <Description xml:space="preserve">A refined collection of bold, beautiful themes for Visual Studio — crafted to elevate focus, reduce eye strain, and make every line of code shine.</Description>
         <MoreInfo>https://github.com/hheydarian/dotnettheme</MoreInfo>
+        <License>LICENSE</License>
         <Icon>icone\logo.png</Icon>
-        <Tags>theme, dotnet, visual studio, dark theme, dotnettheme, theme, color theme</Tags>
+        <PreviewImage>icone\logo.png</PreviewImage>
+        <Tags>visual studio theme, vs theme, dotnet, dark mode, developer theme, high contrast, productivity, modern ui, eye friendly, syntax highlighting</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
@@ -34,6 +36,16 @@
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Coffee Reversed dt.jsonc\Coffee Reversed dt.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Aura Soft Dark dt.jsonc\Aura Soft Dark dt.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Panda dt.jsonc\Panda dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\MacOS Modern Dark dt.jsonc\MacOS Modern Dark dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Electron dt.jsonc\Electron dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Blue dt.jsonc\Blue dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Markdown Editor Dark dt.jsonc\Markdown Editor Dark dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Min Dark dt.jsonc\Min Dark dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Copilot dt.jsonc\Copilot dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Tinacious dt.jsonc\Tinacious dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Chromdy dt.jsonc\Chromdy dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Deepdark dt.jsonc\Deepdark dt.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Colors\Bluloco Dark dt.jsonc\Bluloco Dark dt.pkgdef" />
     </Assets>
     <Prerequisites>
         <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
