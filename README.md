@@ -1,8 +1,14 @@
-![License](https://img.shields.io/github/license/hheydarian/DotNetTheme)
-![Marketplace](https://img.shields.io/badge/marketplace-DotNetTheme-blueviolet?logo=visualstudiocode)
-![Version](https://img.shields.io/visual-studio-marketplace/v/HamedHeydarian.DotNetTheme?label=version)
-![Installs](https://img.shields.io/visual-studio-marketplace/i/HamedHeydarian.DotNetTheme?label=downloads)
-![Repo Size](https://img.shields.io/github/repo-size/hheydarian/DotNetTheme)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hheydarian/DotNetTheme?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/issues/hheydarian/DotNetTheme?color=ff69b4" alt="GitHub issues">
+  <img src="https://img.shields.io/github/last-commit/hheydarian/DotNetTheme?color=9cf" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/top/hheydarian/DotNetTheme?color=informational" alt="Top Language">
+  <img src="https://img.shields.io/visual-studio-marketplace/i/HamedHeydarian.DotNetTheme?label=Downloads&color=success" alt="Downloads">
+  <img src="https://komarev.com/ghpvc/?username=hheydarian&label=Visitors&color=blueviolet&style=flat" alt="Profile Views">
+</p>
+
+
+
 
 # 🌈 DotNET Theme for Visual Studio
 
