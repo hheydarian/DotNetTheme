@@ -4,10 +4,11 @@
   <img src="https://img.shields.io/github/last-commit/hheydarian/DotNetTheme?color=9cf" alt="Last Commit">
   <img src="https://img.shields.io/github/languages/top/hheydarian/DotNetTheme?color=informational" alt="Top Language">
   <img src="https://img.shields.io/visual-studio-marketplace/i/HamedHeydarian.DotNetTheme?label=Downloads&color=success" alt="Downloads">
-  <img src="https://komarev.com/ghpvc/?username=hheydarian&label=Visitors&color=blueviolet&style=flat" alt="Profile Views">
+  <img 
+    
+  ![Version](https://img.shields.io/badge/version-3.0.0-blueviolet?style=flat)
+  
 </p>
-
-
 
 
 # 🌈 DotNET Theme for Visual Studio
