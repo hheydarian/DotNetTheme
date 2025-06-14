@@ -37,9 +37,11 @@ You can install **DotNET Theme** directly from the [Visual Studio Marketplace](h
 ---
 
 ## 🎨 Available Themes
-
-### 🆕 New in v3.0.0
-
+<details>
+<summary>
+🆕 New in v3.0.0
+</summary>
+  
 - **Arc Reversed (dt)**  
   ![](theme/dotnettheme/Preview/Arc%20Reversed%20dt.png)
 
@@ -69,10 +71,13 @@ You can install **DotNET Theme** directly from the [Visual Studio Marketplace](h
 
 - **Midnight Fog (dt)**  
   ![](theme/dotnettheme/Preview/Midnight%20Fog%20dt.png)
+  
+</details>
 
----
-
-### 🎨 Classic Themes
+<details>
+  <summary>
+🎨 Version 2.0.0
+</summary>
 
 - **Milkshake Blueberry (dt)**  
   ![](theme/dotnettheme/Preview/Milkshake%20Blueberry%20dt.png)
@@ -104,7 +109,7 @@ You can install **DotNET Theme** directly from the [Visual Studio Marketplace](h
 - **Coffee Reversed (dt)**  
   ![](theme/dotnettheme/Preview/Coffee%20Reversed%20dt.png)
 
----
+</details>
 
 ## 📌 Notes
 
