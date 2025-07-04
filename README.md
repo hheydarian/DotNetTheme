@@ -60,8 +60,8 @@ You can install **DotNET Theme** directly from the [Visual Studio Marketplace](h
 - **Blueberry (dt)**  
   ![](theme/dotnettheme/Preview/Blueberry%20dt.png)
 
-- **Bluoco Dark (dt)**  
-  ![](theme/dotnettheme/Preview/Bluoco%20Dark%20dt.png)
+- **Bluloco Dark (dt)**  
+  ![](theme/dotnettheme/Preview/Bluloco%20Dark%20dt.png)
 
 - **Chromdy (dt)**  
   ![](theme/dotnettheme/Preview/Chromdy%20dt.png)
