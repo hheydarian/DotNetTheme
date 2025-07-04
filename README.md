@@ -71,6 +71,9 @@ You can install **DotNET Theme** directly from the [Visual Studio Marketplace](h
 
 - **Tinacious (dt)**  
   ![](theme/dotnettheme/Preview/Tinacious%20dt.png)
+
+- **Copilot (dt)**  
+  ![](theme/dotnettheme/Preview/Copilot%20dt.png)
   
 </details>
 
