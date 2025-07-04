@@ -66,8 +66,8 @@ You can install **DotNET Theme** directly from the [Visual Studio Marketplace](h
 - **Chromdy (dt)**  
   ![](theme/dotnettheme/Preview/Chromdy%20dt.png)
 
-- **Dark Purple Night (dt)**  
-  ![](theme/dotnettheme/Preview/Dark%20Purple%20Night%20dt.png)
+- **Deepdark (dt)**  
+  ![](theme/dotnettheme/Preview/Deepdark%20dt.png)
 
 - **Midnight Fog (dt)**  
   ![](theme/dotnettheme/Preview/Midnight%20Fog%20dt.png)
