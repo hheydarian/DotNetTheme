@@ -69,8 +69,8 @@ You can install **DotNET Theme** directly from the [Visual Studio Marketplace](h
 - **Deepdark (dt)**  
   ![](theme/dotnettheme/Preview/Deepdark%20dt.png)
 
-- **Midnight Fog (dt)**  
-  ![](theme/dotnettheme/Preview/Midnight%20Fog%20dt.png)
+- **Tinacious (dt)**  
+  ![](theme/dotnettheme/Preview/Tinacious%20dt.png)
   
 </details>
 
