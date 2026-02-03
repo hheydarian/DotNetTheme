@@ -1,36 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj": {}
+    "E:\\CSharp\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj": {
+    "E:\\CSharp\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj",
+        "projectUniqueName": "E:\\CSharp\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj",
         "projectName": "dotnettheme",
-        "projectPath": "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj",
+        "projectPath": "E:\\CSharp\\Extentions\\dotnettheme\\theme\\dotnettheme\\dotnettheme.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Extentions\\dotnettheme\\theme\\dotnettheme\\obj\\",
+        "outputPath": "E:\\CSharp\\Extentions\\dotnettheme\\theme\\dotnettheme\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dotnet/CommunityToolkit/_packaging/CommunityToolkit-Labs/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net472": {
