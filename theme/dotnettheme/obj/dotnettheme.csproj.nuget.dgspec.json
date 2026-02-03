@@ -49,7 +49,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[17.13.2126, )",
+              "version": "[17.14.2120, )",
               "noWarn": [
                 "NU1604"
               ]
@@ -57,7 +57,7 @@
             "Microsoft.VisualStudio.SDK": {
               "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[17.13.40008, )",
+              "version": "[17.14.40265, )",
               "noWarn": [
                 "NU1604"
               ]
