@@ -37,3 +37,60 @@ E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.pdb
 E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\extension.vsixmanifest
 E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\files.json
 E:\C#\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\createTemplateManifests.cache
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Bear dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Expo dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Firefox Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Firefox Light dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\FreeCodeCamp dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\GitLab dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Mayukai Alucard dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Pycharm Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Pycharm Night dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Sumit Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Sumit Party dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Tinacious Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Ubuntu Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Vercel dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Vim Dark Hard dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Vim Deep Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Vira Carbon dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Vira Ocean dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\LICENSE
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Arc Reversed dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Aura Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Aura Soft Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blue dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blueberry Banana dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Blueberry dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Bluloco Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Chromdy dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Coffee Reversed dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Copilot dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dark Modern dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Deepdark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Dracula At Night dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Electron dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Eva Dark Bold dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\MacOS Modern Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Markdown Editor Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Mayukai Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Milkshake Blueberry dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Milkshake Mint dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Min Dark dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Nord Light dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\OLED dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Panda dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Tinacious dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\Colors\Vivid Purple dt.pkgdef
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\icone\logo.png
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\dotnettheme.vsix
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\bin\Debug\extension.vsixmanifest
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.csproj.AssemblyReference.cache
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\_EmptyResource.resources
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.csproj.GenerateResource.cache
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.csproj.CoreCompileInputs.cache
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.dll
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\dotnettheme.pdb
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\extension.vsixmanifest
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\files.json
+E:\CSharp\Extentions\dotnettheme\theme\dotnettheme\obj\Debug\createTemplateManifests.cache

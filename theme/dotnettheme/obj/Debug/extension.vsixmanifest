@@ -1,7 +1,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="dotnettheme.f32db439-8753-46ea-b088-4a53eb6fe6cc" Version="3.0.0" Language="en-US" Publisher="Hamed Heydarian" />
-    <DisplayName>dotnettheme</DisplayName>
+    <Identity Id="dotnettheme.f32db439-8753-46ea-b088-4a53eb6fe6cc" Version="4.0.0" Language="en-US" Publisher="Hamed Heydarian" />
+    <DisplayName>Dotnet Theme</DisplayName>
     <Description xml:space="preserve">A refined collection of bold, beautiful themes for Visual Studio — crafted to elevate focus, reduce eye strain, and make every line of code shine.</Description>
     <MoreInfo>https://github.com/hheydarian/dotnettheme</MoreInfo>
     <License>LICENSE</License>
@@ -45,6 +45,31 @@
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Chromdy dt.jsonc\Chromdy dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Deepdark dt.jsonc\Deepdark dt.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Bluloco Dark dt.jsonc\Bluloco Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Arc Reversed dt.jsonc\Arc Reversed dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Aura Dark dt.jsonc\Aura Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Aura Soft Dark dt.jsonc\Aura Soft Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Bear dt.jsonc\Bear dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Blue dt.jsonc\Blue dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Blueberry Banana dt.jsonc\Blueberry Banana dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Mayukai Alucard dt.jsonc\Mayukai Alucard dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Bear dt.jsonc\Bear dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Vira Carbon dt.jsonc\Vira Carbon dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Vira Ocean dt.jsonc\Vira Ocean dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Firefox Dark dt.jsonc\Firefox Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Firefox Light dt.jsonc\Firefox Light dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Vim Dark Hard dt.jsonc\Vim Dark Hard dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Vim Deep Dark dt.jsonc\Vim Deep Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Pycharm Dark dt.jsonc\Pycharm Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Pycharm Night dt.jsonc\Pycharm Night dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Sumit Dark dt.jsonc\Sumit Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Sumit Party dt.jsonc\Sumit Party dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Tinacious Dark dt.jsonc\Tinacious Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Tinacious dt.jsonc\Tinacious dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\FreeCodeCamp dt.jsonc\FreeCodeCamp dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Ubuntu Dark dt.jsonc\Ubuntu Dark dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Expo dt.jsonc\Expo dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\GitLab dt.jsonc\GitLab dt.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Colors\Vercel dt.jsonc\Vercel dt.pkgdef" />
   </Assets>
   <Prerequisites>
     <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />

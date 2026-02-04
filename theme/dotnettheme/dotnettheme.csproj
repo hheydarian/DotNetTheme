@@ -59,6 +59,10 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Aura Soft Dark dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Bear dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Bear dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Blue dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Blue dt.pkgdef</LastGenOutput>
@@ -107,6 +111,26 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Eva Dark Bold dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Expo dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Expo dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Firefox Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Firefox Dark dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Firefox Light dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Firefox Light dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\FreeCodeCamp dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>FreeCodeCamp dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\GitLab dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>GitLab dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\MacOS Modern Dark dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>MacOS Modern Dark dt.pkgdef</LastGenOutput>
@@ -114,6 +138,10 @@
     <None Include="Colors\Markdown Editor Dark dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Markdown Editor Dark dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Mayukai Alucard dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Mayukai Alucard dt.pkgdef</LastGenOutput>
     </None>
     <None Include="Colors\Mayukai Dark dt.jsonc">
       <Generator>ThemeConverter</Generator>
@@ -143,14 +171,184 @@
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Panda dt.pkgdef</LastGenOutput>
     </None>
+    <None Include="Colors\Pycharm Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Pycharm Dark dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Pycharm Night dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Pycharm Night dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Sumit Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Sumit Dark dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Sumit Party dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Sumit Party dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Tinacious Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Tinacious Dark dt.pkgdef</LastGenOutput>
+    </None>
     <None Include="Colors\Tinacious dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Tinacious dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Ubuntu Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Ubuntu Dark dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Vercel dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Vercel dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Vim Dark Hard dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Vim Dark Hard dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Vim Deep Dark dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Vim Deep Dark dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Vira Carbon dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Vira Carbon dt.pkgdef</LastGenOutput>
+    </None>
+    <None Include="Colors\Vira Ocean dt.jsonc">
+      <Generator>ThemeConverter</Generator>
+      <LastGenOutput>Vira Ocean dt.pkgdef</LastGenOutput>
     </None>
     <None Include="Colors\Vivid Purple dt.jsonc">
       <Generator>ThemeConverter</Generator>
       <LastGenOutput>Vivid Purple dt.pkgdef</LastGenOutput>
     </None>
+    <Content Include="Colors\Bear dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Bear dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Expo dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Expo dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Firefox Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Firefox Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Firefox Light dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Firefox Light dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\FreeCodeCamp dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FreeCodeCamp dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\GitLab dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GitLab dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Mayukai Alucard dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mayukai Alucard dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Pycharm Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pycharm Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Pycharm Night dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pycharm Night dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Sumit Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Sumit Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Sumit Party dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Sumit Party dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Tinacious Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tinacious Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Ubuntu Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ubuntu Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Vercel dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Vercel dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Vim Dark Hard dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Vim Dark Hard dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Vim Deep Dark dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Vim Deep Dark dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Vira Carbon dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Vira Carbon dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Colors\Vira Ocean dt.pkgdef">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Vira Ocean dt.jsonc</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="LICENSE">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
