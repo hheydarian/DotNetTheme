@@ -4,18 +4,14 @@
   <img src="https://img.shields.io/github/last-commit/hheydarian/DotNetTheme?color=9cf" alt="Last Commit">
   <img src="https://img.shields.io/github/languages/top/hheydarian/DotNetTheme?color=informational" alt="Top Language">
   <img src="https://img.shields.io/visual-studio-marketplace/i/HamedHeydarian.DotNetTheme?label=Downloads&color=success" alt="Downloads">
-  <img 
-    
-  ![Version](https://img.shields.io/badge/version-3.0.0-blueviolet?style=flat)
-  
+  <img src="https://img.shields.io/badge/version-4.0.0-blueviolet?style=flat" alt="Version">
 </p>
-
 
 # 🌈 DotNET Theme for Visual Studio
 
 **DotNET Theme** is a sleek and modern Visual Studio extension with a fresh collection of themes inspired by the .NET ecosystem and Microsoft’s elegant design principles.
 
-> 🎉 Now updated to **v3.0.0** with **10 new themes** and cleaner visuals!
+> 🎉 Now updated to **v4.0.0** with **44 stunning themes** and cleaner visuals!
 
 📌 _Please consider giving it a ⭐ on [GitHub](https://github.com/hheydarian/dotnettheme) — your support means a lot!_
 
@@ -36,83 +32,234 @@ You can install **DotNET Theme** directly from the [Visual Studio Marketplace](h
 
 ---
 
-## 🎨 Available Themes
-<details>
-<summary>
-🆕 New in v3.0.0
-</summary>
-  
-- **Arc Reversed (dt)**  
-  ![](theme/dotnettheme/Preview/Arc%20Reversed%20dt.png)
+## 🎨 Available Themes (v4.0.0)
 
-- **Aura Dark (dt)**  
-  ![](theme/dotnettheme/Preview/Aura%20Dark%20dt.png)
+> 🔻 Below is the complete collection of 44 themes.
 
-- **Aura Soft Dark (dt)**  
-  ![](theme/dotnettheme/Preview/Aura%20Soft%20Dark%20dt.png)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Arc Reversed (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Arc_Reversed_dt.png" alt="Arc Reversed (dt)" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <strong>Aura Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Aura_Dark_dt.png" alt="Aura Dark (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Aura Soft Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Aura_Soft_Dark_dt.png" alt="Aura Soft Dark (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Bear (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Bear_dt.png" alt="Bear (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Blueberry Banana (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Blueberry_Banana_dt.png" alt="Blueberry Banana (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Blueberry (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Blueberry_dt.png" alt="Blueberry (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Blue (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Blue_dt.png" alt="Blue (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Bluloco Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Bluloco_Dark_dt.png" alt="Bluloco Dark (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Chromdy (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Chromdy_dt.png" alt="Chromdy (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Coffee Reversed (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Coffee_Reversed_dt.png" alt="Coffee Reversed (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Copilot (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Copilot_dt.png" alt="Copilot (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Dark Modern (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Dark_Modern_dt.png" alt="Dark Modern (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Deepdark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Deepdark_dt.png" alt="Deepdark (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Dracula At Night (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Dracula_At_Night_dt.png" alt="Dracula At Night (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Electron (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Electron_dt.png" alt="Electron (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Eva Dark Bold (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Eva_Dark_Bold_dt.png" alt="Eva Dark Bold (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Expo (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Expo_dt.png" alt="Expo (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Firefox Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Firefox_Dark_dt.png" alt="Firefox Dark (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Firefox Light (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Firefox_Light_dt.png" alt="Firefox Light (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>FreeCodeCamp (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/FreeCodeCamp_dt.png" alt="FreeCodeCamp (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>GitLab (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/GitLab_dt.png" alt="GitLab (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>MacOS Modern Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/MacOS_Modern_Dark_dt.png" alt="MacOS Modern Dark (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Markdown Editor Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Markdown_Editor_Dark_dt.png" alt="Markdown Editor Dark (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Mayukai Alucard (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Mayukai_Alucard_dt.png" alt="Mayukai Alucard (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Mayukai Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Mayukai_Dark_dt.png" alt="Mayukai Dark (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Milkshake Blueberry (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Milkshake_Blueberry_dt.png" alt="Milkshake Blueberry (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Milkshake Mint (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Milkshake_Mint_dt.png" alt="Milkshake Mint (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Min Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Min_Dark_dt.png" alt="Min Dark (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Nord Light (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Nord_Light_dt.png" alt="Nord Light (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>OLED (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/OLED_dt.png" alt="OLED (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Panda (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Panda_dt.png" alt="Panda (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Pycharm Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Pycharm_Dark_dt.png" alt="Pycharm Dark (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Pycharm Night (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Pycharm_Night_dt.png" alt="Pycharm Night (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Sumit Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Sumit_Dark_dt.png" alt="Sumit Dark (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Sumit Party (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Sumit_Party_dt.png" alt="Sumit Party (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Tinacious Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Tinacious_Dark_dt.png" alt="Tinacious Dark (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Tinacious (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Tinacious_dt.png" alt="Tinacious (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Ubuntu Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Ubuntu_Dark_dt.png" alt="Ubuntu Dark (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Vercel (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Vercel_dt.png" alt="Vercel (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Vim Dark Hard (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Vim_Dark_Hard_dt.png" alt="Vim Dark Hard (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Vim Deep Dark (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Vim_Deep_Dark_dt.png" alt="Vim Deep Dark (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Vira Carbon (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Vira_Carbon_dt.png" alt="Vira Carbon (dt)" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Vira Ocean (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Vira_Ocean_dt.png" alt="Vira Ocean (dt)" width="100%">
+    </td>
+    <td align="center">
+      <strong>Vivid Purple (dt)</strong><br>
+      <img src="theme/dotnettheme/Preview/Vivid_Purple_dt.png" alt="Vivid Purple (dt)" width="100%">
+    </td>
+  </tr>
+</table>
 
-- **Blue (dt)**  
-  ![](theme/dotnettheme/Preview/Blue%20dt.png)
-
-- **Blueberry Banana (dt)**  
-  ![](theme/dotnettheme/Preview/Blueberry%20Banana%20dt.png)
-
-- **Blueberry (dt)**  
-  ![](theme/dotnettheme/Preview/Blueberry%20dt.png)
-
-- **Bluloco Dark (dt)**  
-  ![](theme/dotnettheme/Preview/Bluloco%20Dark%20dt.png)
-
-- **Chromdy (dt)**  
-  ![](theme/dotnettheme/Preview/Chromdy%20dt.png)
-
-- **Deepdark (dt)**  
-  ![](theme/dotnettheme/Preview/Deepdark%20dt.png)
-
-- **Tinacious (dt)**  
-  ![](theme/dotnettheme/Preview/Tinacious%20dt.png)
-
-- **Copilot (dt)**  
-  ![](theme/dotnettheme/Preview/Copilot%20dt.png)
-  
-</details>
-
-<details>
-  <summary>
-🎨 Version 2.0.0
-</summary>
-
-- **Milkshake Blueberry (dt)**  
-  ![](theme/dotnettheme/Preview/Milkshake%20Blueberry%20dt.png)
-
-- **Milkshake Mint (dt)**  
-  ![](theme/dotnettheme/Preview/Milkshake%20Mint%20dt.png)
-
-- **Nord Light (dt)**  
-  ![](theme/dotnettheme/Preview/Nord%20Light%20dt.png)
-
-- **Mayukai Dark (dt)**  
-  ![](theme/dotnettheme/Preview/Mayukai%20Dark%20dt.png)
-
-- **Eva Dark Bold (dt)**  
-  ![](theme/dotnettheme/Preview/Eva%20Dark%20Bold%20dt.png)
-
-- **Dracula At Night (dt)**  
-  ![](theme/dotnettheme/Preview/Dracula%20At%20Night%20dt.png)
-
-- **Dark Modern (dt)**  
-  ![](theme/dotnettheme/Preview/Dark%20Modern%20dt.png)
-
-- **Vivid Purple (dt)**  
-  ![](theme/dotnettheme/Preview/Vivid%20Purple%20dt.png)
-
-- **OLED (dt)**  
-  ![](theme/dotnettheme/Preview/OLED%20dt.png)
-
-- **Coffee Reversed (dt)**  
-  ![](theme/dotnettheme/Preview/Coffee%20Reversed%20dt.png)
-
-</details>
+---
 
 ## 📌 Notes
 
@@ -121,13 +268,13 @@ You can install **DotNET Theme** directly from the [Visual Studio Marketplace](h
 
 ---
 
-## 📋 Changelog (v3.0.0)
+## 📋 Changelog (v4.0.0)
 
-- ➕ Added **10 new themes**
-- 🎨 Updated color tones and consistency across all themes
-- 🖼 Improved preview layout and naming clarity
-- 🆔 All theme names now follow the `(dt)` suffix standard
-- 🛠 Minor fixes and optimizations
+- 🚀 **Massive Update v4.0.0**
+- ➕ Expanded collection to **44 themes** (Merged classic & new themes)
+- 🎨 Added popular styles like *Firefox, Copilot, Bluloco, and MacOS Modern*
+- 🆔 Renamed files to standard format for better compatibility
+- 🛠 Minor fixes and performance optimizations
 
 ---
 
@@ -140,6 +287,5 @@ Made with ❤️ by [Hamed Heydarian](https://github.com/hheydarian) — a passi
 ## 🌟 Like it?
 
 If you enjoy this extension, please consider:
-
 - Giving it a [⭐ on GitHub](https://github.com/hheydarian/dotnettheme)
 - Sharing it with fellow developers!
