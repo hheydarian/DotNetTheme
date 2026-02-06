@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://github.com/hheydarian/DotNetTheme/raw/main/theme/dotnettheme/icone/logo.png" alt="DotNET Theme Logo" width="128">
+</p>
+
+
+
+<p align="center">
   <img src="https://img.shields.io/github/stars/hheydarian/DotNetTheme?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/issues/hheydarian/DotNetTheme?color=ff69b4" alt="GitHub issues">
   <img src="https://img.shields.io/github/last-commit/hheydarian/DotNetTheme?color=9cf" alt="Last Commit">
